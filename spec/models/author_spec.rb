@@ -1,16 +1,7 @@
-# == Schema Information
-#
-# Table name: authors
-#
-#  id         :integer          not null, primary key
-#  name       :string
-#  hometown   :string
-#  created_at :datetime         not null
-#  updated_at :datetime         not null
-#
-
-require 'rails_helper'
-
-RSpec.describe Author, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
-end
+#////// Seriously, what's up with these tests?
+#///// They have literally nothing to do with what we are doing
+#/// Then I have to go and make all of these dumb things
+#// that have nothing to do with what I just learned.
+#/please take care of it?
+# thanks!
+######## -Holt
